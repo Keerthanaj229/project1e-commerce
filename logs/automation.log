@@ -1,0 +1,42 @@
+14:21:41.919 [main] INFO  TestCases.TC_001_AccountRegistration - TestCase Passed!
+14:21:42.339 [main] INFO  TestCases.TC_001_AccountRegistration - validation completed
+14:21:42.340 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest completed!!!
+14:22:06.694 [main] INFO  TestCases.TC_002_LoginPage - entering loginCredentials
+14:22:07.347 [main] INFO  TestCases.TC_002_LoginPage - clicked on login button
+14:22:07.347 [main] INFO  TestCases.TC_002_LoginPage - verifying welcomePage--
+14:38:15.262 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest started!!!
+14:38:18.472 [main] INFO  TestCases.TC_001_AccountRegistration - Registration_clicked action done
+14:38:19.075 [main] INFO  TestCases.TC_001_AccountRegistration - entering registration details
+14:38:21.306 [main] INFO  TestCases.TC_001_AccountRegistration - clicked register
+14:38:21.473 [main] INFO  TestCases.TC_001_AccountRegistration - Validating expected message..
+14:38:21.473 [main] INFO  TestCases.TC_001_AccountRegistration - TestCase Passed!
+14:38:21.475 [main] INFO  TestCases.TC_001_AccountRegistration - validation completed
+14:38:21.475 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest completed!!!
+14:38:42.781 [main] INFO  TestCases.TC_002_LoginPage - entering loginCredentials
+14:38:43.554 [main] INFO  TestCases.TC_002_LoginPage - clicked on login button
+14:38:43.555 [main] INFO  TestCases.TC_002_LoginPage - verifying welcomePage--
+22:25:58.738 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest started!!!
+22:26:00.241 [main] INFO  TestCases.TC_001_AccountRegistration - Registration_clicked action done
+22:26:00.336 [main] INFO  TestCases.TC_001_AccountRegistration - entering registration details
+22:26:02.598 [main] INFO  TestCases.TC_001_AccountRegistration - clicked register
+22:26:02.755 [main] INFO  TestCases.TC_001_AccountRegistration - Validating expected message..
+22:26:02.755 [main] INFO  TestCases.TC_001_AccountRegistration - TestCase Passed!
+22:26:02.804 [main] INFO  TestCases.TC_001_AccountRegistration - validation completed
+22:26:02.804 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest completed!!!
+22:28:15.851 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest started!!!
+22:28:17.530 [main] INFO  TestCases.TC_001_AccountRegistration - Registration_clicked action done
+22:28:17.570 [main] INFO  TestCases.TC_001_AccountRegistration - entering registration details
+22:28:20.162 [main] INFO  TestCases.TC_001_AccountRegistration - clicked register
+22:28:20.252 [main] INFO  TestCases.TC_001_AccountRegistration - Validating expected message..
+22:28:20.253 [main] INFO  TestCases.TC_001_AccountRegistration - TestCase Passed!
+22:28:20.259 [main] INFO  TestCases.TC_001_AccountRegistration - validation completed
+22:28:20.259 [main] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest completed!!!
+22:28:42.063 [main] INFO  TestCases.TC_002_LoginPage - entering loginCredentials
+22:28:43.110 [main] INFO  TestCases.TC_002_LoginPage - clicked on login button
+22:28:43.110 [main] INFO  TestCases.TC_002_LoginPage - verifying welcomePage--
+22:33:47.308 [main] INFO  TestCases.TC_002_LoginPage - entering loginCredentials
+22:33:48.321 [main] INFO  TestCases.TC_002_LoginPage - clicked on login button
+22:33:48.321 [main] INFO  TestCases.TC_002_LoginPage - verifying welcomePage--
+22:36:26.243 [main] INFO  TestCases.TC_002_LoginPage - entering loginCredentials
+22:36:28.087 [main] INFO  TestCases.TC_002_LoginPage - clicked on login button
+22:36:28.088 [main] INFO  TestCases.TC_002_LoginPage - verifying welcomePage--

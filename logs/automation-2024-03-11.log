@@ -1,0 +1,8 @@
+22:18:13.729 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistration - clicked register
+22:18:22.588 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistration - Validating expected message..
+22:18:22.588 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistration - TestCase Passed!
+22:18:22.604 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistration - validation completed
+22:18:22.604 [TestNG-tests-1] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest completed!!!
+22:19:10.193 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistration - TC_001_registrationTest started!!!
+22:19:20.079 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistration - Registration_clicked action done
+22:19:20.079 [TestNG-tests-2] INFO  TestCases.TC_001_AccountRegistration - entering registration details
